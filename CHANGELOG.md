@@ -1,3 +1,21 @@
+## 0.27.1 (2024-03-22)
+
+### Changes:
+
+- Fix crash in checkEligibility
+
+## 0.27.0 (2024-02-28)
+
+### Changes:
+
+- Add disclaimer support
+
+## 0.26.3 (2024-01-22)
+
+### Changes:
+
+- Fix encoding issue on iOS 17
+
 ## 0.26.2 (2023-08-08)
 
 ### Changes:
