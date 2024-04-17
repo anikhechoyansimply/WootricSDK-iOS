@@ -1,0 +1,7 @@
+<key>NSPrivacyAccessedAPITypes</key>
+<array>
+    <dict>
+        <key>NSPrivacyAccessedAPICategoryUserDefaults</key>
+        <string>We use user defaults to store your preferences and settings to provide a personalized experience within the app.</string>
+    </dict>
+</array>
